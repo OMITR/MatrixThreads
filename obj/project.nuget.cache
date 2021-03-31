@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h+ysRyP9bZw4hsIxMAiaK4ox2XhaRzonzM/1CQyTC192x2EgbBoijpre/KaXVqzdV7Wxipl3BJ00UdfWPiixTw==",
+  "dgSpecHash": "e4yEJiyKs2jzbhaHT2cnmJgMz2MxVgQjlv4n6I2Cz3NXvvD8RE7E1IqOMgnM6t04BOhVSS9af6qYpd/N3dAiag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\goldl\\source\\repos\\MatrixThreads\\MatrixThreads.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projects\\CSharp\\MatrixThreads\\MatrixThreads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }
