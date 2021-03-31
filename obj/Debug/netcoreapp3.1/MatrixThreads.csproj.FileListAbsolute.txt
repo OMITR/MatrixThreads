@@ -11,3 +11,16 @@ C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.
 C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.dll
 C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.pdb
 C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.genruntimeconfig.cache
+C:\Projects\CSharp\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.exe
+C:\Projects\CSharp\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.deps.json
+C:\Projects\CSharp\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.runtimeconfig.json
+C:\Projects\CSharp\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.runtimeconfig.dev.json
+C:\Projects\CSharp\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.dll
+C:\Projects\CSharp\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.pdb
+C:\Projects\CSharp\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.csprojAssemblyReference.cache
+C:\Projects\CSharp\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.AssemblyInfoInputs.cache
+C:\Projects\CSharp\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.AssemblyInfo.cs
+C:\Projects\CSharp\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.csproj.CoreCompileInputs.cache
+C:\Projects\CSharp\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.dll
+C:\Projects\CSharp\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.pdb
+C:\Projects\CSharp\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.genruntimeconfig.cache
