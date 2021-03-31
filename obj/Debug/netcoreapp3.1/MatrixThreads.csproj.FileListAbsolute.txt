@@ -1,0 +1,13 @@
+C:\Users\goldl\source\repos\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.exe
+C:\Users\goldl\source\repos\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.deps.json
+C:\Users\goldl\source\repos\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.runtimeconfig.json
+C:\Users\goldl\source\repos\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.runtimeconfig.dev.json
+C:\Users\goldl\source\repos\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.dll
+C:\Users\goldl\source\repos\MatrixThreads\bin\Debug\netcoreapp3.1\MatrixThreads.pdb
+C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.csprojAssemblyReference.cache
+C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.AssemblyInfoInputs.cache
+C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.AssemblyInfo.cs
+C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.csproj.CoreCompileInputs.cache
+C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.dll
+C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.pdb
+C:\Users\goldl\source\repos\MatrixThreads\obj\Debug\netcoreapp3.1\MatrixThreads.genruntimeconfig.cache
